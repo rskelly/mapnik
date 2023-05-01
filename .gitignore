@@ -63,3 +63,4 @@ build
 .vs
 
 CMakeUserPresets.json
+.venv
